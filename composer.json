@@ -1,0 +1,17 @@
+{
+    "name": "tangchunlin/design-patterns",
+    "description": "Collect some excellent design patterns.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.3@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mantis",
+            "email": "tangchunlinit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
