@@ -6,6 +6,8 @@
  * Time: 上午8:34
  */
 
+namespace AbstractFactory;
+
 class JsonParser implements Parser
 {
     public function parse(string $input): array

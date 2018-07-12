@@ -6,6 +6,9 @@
  * Date: 2018/7/11
  * Time: 上午8:24
  */
+
+namespace AbstractFactory;
+
 class CSVParser implements Parser
 {
     const OPTION_CONTAINS_HEADER = true;

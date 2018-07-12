@@ -6,6 +6,9 @@
  * Date: 2018/7/11
  * Time: 上午8:36
  */
+
+namespace AbstractFactory;
+
 class ParserFactory
 {
     public function createCsvParser(bool $shipHeaderLine): CSVParser

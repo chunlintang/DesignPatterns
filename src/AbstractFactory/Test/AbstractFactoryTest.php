@@ -6,7 +6,13 @@
  * Time: 上午8:40
  */
 
+namespace AbstractFactory\Test;
+
+//require "../../../vendor/autoload.php";
+
+use AbstractFactory\CSVParser;
 use PHPUnit\Framework\TestCase;
+use AbstractFactory\ParserFactory;
 
 class AbstractFactoryTest extends TestCase
 {

@@ -6,7 +6,7 @@
 
 ## 目录
 
-- [抽象工厂模式](/AbstractFactory)
+- [抽象工厂模式](/src/AbstractFactory)
 
 ## License
 
